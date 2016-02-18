@@ -80,7 +80,7 @@ body{
 .marquee{
 	/*width: 60%;*/
 	/*margin-top: 40px;*/
-	margin-top: 5em;
+	margin-top: 20px;
 	width: 200px;
 	display: inline-block;
 }
